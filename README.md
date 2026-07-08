@@ -1,16 +1,15 @@
-## Hi there 👋
+# <p align="center"> ¡Hola, soy Jonathan! 👋 </p>
 
-<!--
-**jhonathan888/jhonathan888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.pinimg.com/736x/49/80/1b/49801b4e50af5338c113bc79c6c30ceb.jpg" alt="Tu Imagen Animada" width="600">
+</p>
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+*   Soy un entusiasta de la tecnología y estoy aprendiendo desarrollo de aplicaciones de escritorio.
+*   Me interesa aprender **Java** y **C#**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías y Herramientas
+*   **Lenguajes:** C#, JavaScript.
+*   **Herramientas:** Cursor, Visual Studio, Claude.
+
+---
